@@ -1,4 +1,4 @@
-# ciont-flip
+# cion-flip
 
 
-Game coint-flip code 
+Game coin-flip code 
